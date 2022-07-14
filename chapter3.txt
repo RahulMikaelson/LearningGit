@@ -1,0 +1,7 @@
+Hello firends this is my chapter three wher i am learning git and git hub
+git init   used to initialise the local repository in the folder
+git status used to check whether the file in that folder are sent to staging area or not
+git add filename   used to add the files to staging area
+git add .   used to add all the files in folder to staging area
+git commit -m "message" used to commit and add a message
+git log     used to know the last commit details

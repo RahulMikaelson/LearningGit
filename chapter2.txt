@@ -1,0 +1,6 @@
+This is my second file that i was created using cmd.
+so till now what i have learned is 
+cd change directory
+mkdir make directory
+type nul> filename.tx is used to make text file using cmd
+this are the things i have learned using cmd
